@@ -8,3 +8,4 @@ obsah       = pi * polomer ** 2
 print(f"Obvod zadaného kruhu je: {obvod}")
 print(f"Obsah kruhu je: {obsah}")
 
+print("Děkuji za využití našeho programu.")
